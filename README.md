@@ -37,11 +37,11 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
 
 **Planned**
 - IBM Data Warehouse
--IBM Machine Learning
--IBM Deep Learning
--IBM AI Engineer
--IBM Generative AI Engineer
--IBM Development AI Engineer
+- IBM Machine Learning
+- IBM Deep Learning
+- IBM AI Engineer
+- IBM Generative AI Engineer
+- IBM Development AI Engineer
 
 
 ## 🛠️ Tools and Technologies
