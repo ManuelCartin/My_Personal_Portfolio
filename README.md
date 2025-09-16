@@ -1,14 +1,15 @@
-# My_Personal_Portfolio
+#My_Personal_Portfolio
 Portfolio
-# 🚀 Portafolio de AI Engineer
+#🚀AI Engineer Portfolio
 
-Bienvenido a mi portafolio. Aquí encontrarás mis proyectos principales, ejercicios de práctica y experimentos de IA.
+Welcome to my portfolio. Here you'll find my main projects, practice exercises, and AI experiments.
 
-## 📌 Proyectos principales
-- [F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering) → Creación de un producto de datos para análisis estratégico en Fórmula 1.
-- [Weather and crime en pandemia](https://github.com/ManuelCartin/Proyect_Crime_Meteo) → Análisis de impacto del clima en la criminalidad durante la pandemia.
-- [Dataset sintético para perecederos](https://github.com/ManuelCartin/Perishable_RNN_Project) → Generación de datos sintéticos y entrenamiento de RNN para predecir frescura.
-- [F1 Test API and strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys) → Extracción de datos de API de F1 y análisis de estrategias de carrera.
+## 📌 Main projects
+- [F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering) → Creating a data product for strategic analysis in Formula 1.
+- [Weather and crime en pandemia](https://github.com/ManuelCartin/Proyect_Crime_Meteo) → Climate Impact Analysis on Crime: A project with continuous updates and improvements.
+- [Dataset sintético para perecederos](https://github.com/ManuelCartin/Perishable_RNN_Project) → Synthetic data generation and RNN training to predict freshness: In progress
+- [F1 Test API and strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys) → F1 API data extraction and race strategy analysis.
+- [Cloud analisys and Predict](https://github.com/ManuelCartin/Cloud_Analisys_Predict/tree/main)  →  An AI model for risk prevention in aviation safety.
 
 ## 🧪 Práctica
 - [Ejercicios Kaggle y datasets](https://github.com/ManuelCartin/Data_Practice)
