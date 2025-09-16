@@ -30,8 +30,12 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
     - [Data Analysis EDA IBM Data Sciense Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX_IBM_apply_data_sciense_capstone) → Final Proyect IBM data Sciense part 3
     - [Data Predict Space x, Capstone data sciense IBM Proyect](https://github.com/ManuelCartin/Date_Predict_AED_Space_X_IBM_apply_data_sciense_capstone) → Final Proyect IBM data Sciense part 4
        
-**In progress / planned**
+**In progress**
 -IBM Data Engineer
+  - **Certification Projects:**
+  - [Linux Proyect](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect)
+
+**Planned**
 - IBM Data Warehouse
 -IBM Machine Learning
 -IBM Deep Learning
