@@ -8,7 +8,7 @@ Welcome to my portfolio. Here you'll find my main projects, practice exercises, 
 - [Weather and crime en pandemia](https://github.com/ManuelCartin/Proyect_Crime_Meteo) → Climate Impact Analysis on Crime: A project with continuous updates and improvements.
 - [Dataset sintético para perecederos](https://github.com/ManuelCartin/Perishable_RNN_Project) → Synthetic data generation and RNN training to predict freshness: In progress
 - [F1 Test API and strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys) → F1 API data extraction and race strategy analysis.
-- [Cloud analisys and Predict](https://github.com/ManuelCartin/Cloud_Analisys_Predict/tree/main)  →  An AI model for risk prevention in aviation safety.
+- [Cloud analysis and Predict](https://github.com/ManuelCartin/Cloud_Analisys_Predict/tree/main)  →  An AI model for risk prevention in aviation safety.
 
   ## 🧪 Practice
 - [Kaggle exercises and datasets](https://github.com/ManuelCartin/Data_Practice)
@@ -19,12 +19,12 @@ Welcome to my portfolio. Here you'll find my main projects, practice exercises, 
 - ✔️ [IBM Data Science](https://www.credly.com/org/ibm/badge/ibm-data-science-professional-certificate-v3)
   - **Certification Projects:**
     - [First Jupyter Notebook](https://github.com/ManuelCartin/firstJupyterIBMskills) → First jupyter notebook practice
-    - [Data Sciense IBM Project](https://github.com/ManuelCartin/Data_Science_IBM_Proyect) → Project IBM data Sciense
-    - [Data sciense Capstone Proyect](https://github.com/ManuelCartin/IBM_Data_Sciense_Capstone) → Final Project IBM data Sciense 
+    - [Data Sciense IBM Project](https://github.com/ManuelCartin/Data_Science_IBM_Proyect) → Project IBM data Science
+    - [Data sciense Capstone Proyect](https://github.com/ManuelCartin/IBM_Data_Sciense_Capstone) → Final Project IBM data Science 
     - [Data Wrangler IBM Data Sciense Capstone](https://github.com/ManuelCartin/DataWrangler_SpaceX_IBMCourse) → Final Project IBM data Sciense part 1
-    - [Data Analisys IBM Data Science Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX__IBM_apply_data_sciense_capstone_part3) → Final Project IBM data Sciense part 2
-    - [Data Analisys EDA IBM Data Sciense Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX_IBM_apply_data_sciense_capstone) → Final Project IBM data Sciense part 3
-    - [Data Predict Space x, Capstone data sciense IBM Project](https://github.com/ManuelCartin/Date_Predict_AED_Space_X_IBM_apply_data_sciense_capstone) → Final Project IBM data Sciense part 4
+    - [Data Analysis IBM Data Science Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX__IBM_apply_data_sciense_capstone_part3) → Final Proyect IBM data Sciense part 2
+    - [Data Analysis EDA IBM Data Sciense Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX_IBM_apply_data_sciense_capstone) → Final Proyect IBM data Sciense part 3
+    - [Data Predict Space x, Capstone data sciense IBM Proyect](https://github.com/ManuelCartin/Date_Predict_AED_Space_X_IBM_apply_data_sciense_capstone) → Final Proyect IBM data Sciense part 4
        
 **In progress / planned**
 -IBM Data Engineer
