@@ -33,7 +33,7 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
 **In progress**
 - IBM Data Engineer
   - **Certification Projects:**
-    - [Linux Proyect](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect)
+    - [Linux Proyect](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Linux SH data automation with Conrad
 
 **Planned**
 - IBM Data Warehouse
