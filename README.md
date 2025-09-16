@@ -13,6 +13,9 @@ Welcome to my portfolio. Here you'll find my main projects, practice exercises, 
   ## 🧪 Practice
 - [Kaggle exercises and datasets](https://github.com/ManuelCartin/Data_Practice)
 
+  ## University Proyects
+- [Fidelitas University Proyects](https://github.com/ManuelCartin/University_Fidelitas_Project) 
+
 ## 🎓 Relevant Certifications
 
 **Earned**
