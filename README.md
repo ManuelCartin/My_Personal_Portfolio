@@ -47,7 +47,7 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
 ## 🛠️ Tools and Technologies
 
 - **Languages ​​& Core** 
-- Python, SQL, R (basic)
+- Python, SQL, Linux
 - **Machine Learning & Deep Learning** 
 - Scikit-learn, TensorFlow, PyTorch, Keras
 - **Data Engineering** 
