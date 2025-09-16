@@ -1,6 +1,5 @@
-#My_Personal_Portfolio
-Portfolio
-#🚀AI Engineer Portfolio
+# My_Personal_Portfolio
+# 🚀AI Engineer Portfolio
 
 Welcome to my portfolio. Here you'll find my main projects, practice exercises, and AI experiments.
 
