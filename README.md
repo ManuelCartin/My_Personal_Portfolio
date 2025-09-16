@@ -1,7 +1,8 @@
 # My_Personal_Portfolio
 # 🚀AI Engineer Portfolio
-
-Welcome to my portfolio. Here you'll find my main projects, practice exercises, and AI experiments.
+Welcome to my space! I'm a data science student who wants to become an AI engineer. My motto is always to take data with a grain of salt. Throughout my career, I've specialized in building data products that not only work, but also tell a story. In this portfolio, I share my most ambitious projects and how I use artificial intelligence to unravel the secrets behind data, from Formula 1 to meteorology.
+# My Philosophy
+I firmly believe that hard work is the best way to grow. This portfolio not only showcases my main projects but also my internships and academic work, because I believe we can all improve. I don't seek to be the best, but rather to prepare myself to work with those who will one day be my colleagues and peers. If one of us improves, we all improve, with the goal of helping those in need.
 
 ## 📌 Main projects
 - [F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering) → Creating a data product for strategic analysis in Formula 1.
