@@ -1,7 +1,7 @@
 # My_Personal_Portfolio
 # 🚀AI Engineer Portfolio
 Welcome to my space! I'm a data science student who wants to become an AI engineer. My motto is always to take data with a grain of salt. Throughout my career, I've specialized in building data products that not only work, but also tell a story. In this portfolio, I share my most ambitious projects and how I use artificial intelligence to unravel the secrets behind data, from Formula 1 to meteorology.
-# My Philosophy
+# 🌱 My Philosophy
 I firmly believe that hard work is the best way to grow. This portfolio not only showcases my main projects but also my internships and academic work, because I believe we can all improve. I don't seek to be the best, but rather to prepare myself to work with those who will one day be my colleagues and peers. If one of us improves, we all improve, with the goal of helping those in need.
 
 ## 📌 Main projects
@@ -14,7 +14,7 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
   ## 🧪 Practice
 - [Kaggle exercises and datasets](https://github.com/ManuelCartin/Data_Practice)
 
-  ## University Proyects
+  ## 🧩 University Proyects
 - [Fidelitas University Proyects](https://github.com/ManuelCartin/University_Fidelitas_Project) 
 
 ## 🎓 Relevant Certifications
@@ -35,7 +35,7 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
   - **Certification Projects:**
     - [Linux Proyect](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Linux SH data automation with Conrad
 
-**Planned**
+**🚧 Planned**
 - IBM Data Warehouse
 - IBM Machine Learning
 - IBM Deep Learning
@@ -46,17 +46,17 @@ I firmly believe that hard work is the best way to grow. This portfolio not only
 
 ## 🛠️ Tools and Technologies
 
-- **Languages ​​& Core** 
+- **🧠  Languages ​​& Core** 
 - Python, SQL, Linux
-- **Machine Learning & Deep Learning** 
+- **🤖 Machine Learning & Deep Learning** 
 - Scikit-learn, TensorFlow, PyTorch, Keras
-- **Data Engineering** 
+- **🛠️ Data Engineering** 
 - Pandas, NumPy, PySpark, Apache Airflow
-- **Databases** 
+- **🗄️ Databases** 
 - MySQL, PostgreSQL, MongoDB
-- **Cloud & Deployment** 
+- **☁️ Cloud & Deployment** 
 - IBM Cloud, Docker, Flask, FastAPI
-- **Display** 
+- **📊 Display** 
 - Matplotlib, Seaborn, Plotly, Power BI
-- **Other tools** 
+- **🧰 Other tools** 
 - Git/GitHub, Jupyter, VS Code
