@@ -81,9 +81,9 @@ If one of us improves, we all improve — with the shared goal of creating solut
 
 ## 📬 Contact  
 
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 💻 GitHub: [github.com/yourusername](#)  
+- 📧 Email: [manuelcartinh@gmail.com]  
+- 💼 LinkedIn: [linkedin profile](https://www.linkedin.com/in/manuel-antonio-cartin-hern%C3%A1ndez-316759227/)  
+- 💻 GitHub: [github profile](https://github.com/ManuelCartin/ManuelCartin)  
 
 ---
 ⭐ *"Data is not just numbers — it’s stories waiting to be told."*  
