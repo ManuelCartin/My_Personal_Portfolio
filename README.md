@@ -38,6 +38,28 @@ If one of us improves, we all improve — with the shared goal of creating solut
 - [Fidélitas University Projects](https://github.com/ManuelCartin/University_Fidelitas_Project) → Coursework and applied research in Data Science Engineering.  
 
 ---
+🧪 Experiments and Tests
+
+In addition to the main projects, I maintain a dedicated Experiments Repository
+.
+
+This space is for:
+
+Unpolished projects → ideas still in development.
+
+Technical practice → data cleaning, integration, or exploratory workflows.
+
+Curiosity-driven work → experiments that may later become full portfolio projects.
+
+📌 Example experiment:
+## 🧪 Experiments and Tests  
+
+In addition to the main projects, I maintain a dedicated repository for experiments and technical practice:  
+- **[Data Experiment](https://github.com/ManuelCartin/Data_Experiment)** → Collection of experiments and exploratory projects.  
+  - [F1 Climate Comparison](https://github.com/ManuelCartin/Data_Experiment/tree/main/f1_climate_comparacion) → Merging and cleaning weather datasets from four Formula 1 circuits (Spa, Bahrain, Miami, and Singapore) to build a consolidated dataset for climate analysis.  
+  - *(More experiments will be added as I continue exploring)*  
+
+
 
 ## 🎖️ Relevant Certifications  
 
