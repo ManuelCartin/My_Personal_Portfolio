@@ -20,10 +20,11 @@ If one of us improves, we all improve — with the shared goal of creating solut
 ## 📌 Main Projects  
 
 - **[F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering)** → Created a data product for **strategic analysis in Formula 1**, including lap predictions and pit-stop optimization.  
-- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements**.  
-- **[Synthetic Dataset for Perishables](https://github.com/ManuelCartin/Perishable_RNN_Project)** → Generated synthetic data and trained **RNN models** to predict product freshness. *(In progress)*  
 - **[F1 API & Race Strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys)** → Built a pipeline for **F1 data extraction via API** and strategy simulation for performance insights.  
-- **[Cloud Analysis and Risk Prevention](https://github.com/ManuelCartin/Cloud_Analisys_Predict)** → AI model for **aviation safety risk prevention** through cloud pattern detection.  
+- **[Synthetic Dataset for Perishables](https://github.com/ManuelCartin/Perishable_RNN_Project)** → Generated synthetic data and trained **RNN models** to predict product freshness. *(In progress)*
+- **[F1_Climate_season_Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)** → Analysis of the F1 season with climate data. *(In progress)*
+- **[Cloud Analysis and Risk Prevention](https://github.com/ManuelCartin/Cloud_Analisys_Predict)** → AI model for **aviation safety risk prevention** through cloud pattern detection.  *(in progress)*
+- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.  
 
 ---
 
