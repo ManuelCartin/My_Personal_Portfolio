@@ -5,8 +5,6 @@ My work combines modeling, simulation, and machine learning to transform complex
 
 ---
 
-## 🌱 My Philosophy  
-
 ## Engineering Approach
 
 - Strong technical foundations before abstraction.
@@ -16,7 +14,7 @@ My work combines modeling, simulation, and machine learning to transform complex
 
 ---
 
-## 📌 Main Projects  
+## Main Projects  
 
 - **[F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering)** → Created a data product for **strategic analysis in Formula 1**, including lap predictions and pit-stop optimization.  
 - **[F1 API & Race Strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys)** → Built a pipeline for **F1 data extraction via API** and strategy simulation for performance insights.  
@@ -27,18 +25,18 @@ My work combines modeling, simulation, and machine learning to transform complex
 
 ---
 
-## 🛠️ Practice  
+## Practice  
 
 - [Kaggle exercises and datasets](https://github.com/ManuelCartin/Data_Practice) → Hands-on machine learning, feature engineering, and competition-style practice.  
 
 ---
 
-## 🎓 University Projects  
+## University Projects  
 
 - [Fidélitas University Projects](https://github.com/ManuelCartin/University_Fidelitas_Project) → Coursework and applied research in Data Science Engineering.  
 
 ---
-🧪 Experiments and Tests
+Experiments and Tests
 
 In addition to the main projects, I maintain a dedicated Experiments Repository
 .
@@ -51,9 +49,6 @@ Technical practice → data cleaning, integration, or exploratory workflows.
 
 Curiosity-driven work → experiments that may later become full portfolio projects.
 
-📌 Example experiment:
-## 🧪 Experiments and Tests  
-
 In addition to the main projects, I maintain a dedicated repository for experiments and technical practice:  
 - **[Data Experiment](https://github.com/ManuelCartin/Data_Experiment)** → Collection of experiments and exploratory projects.  
   - [F1 Climate Comparison](https://github.com/ManuelCartin/Data_Experiment/tree/main/f1_climate_comparacion) → Merging and cleaning weather datasets from four Formula 1 circuits (Spa, Bahrain, Miami, and Singapore) to build a consolidated dataset for climate analysis.  
@@ -61,18 +56,18 @@ In addition to the main projects, I maintain a dedicated repository for experime
 
 
 
-## 🎖️ Relevant Certifications  
+## Relevant Certifications  
 
 IBM Data Science Professional Certificate  
 - Applied Capstone Project (multi-stage predictive modeling)
 Autonomous Vehicle Engineer
 - tire model (matlab/simulink and jupyter notebook)
 
-### 🔄 In Progress  
+### In Progress  
 - **IBM Data Engineer**  
   - [Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Automated workflows with Linux Shell scripting.  
 
-## 🧰 Tools and Technologies  
+## Tools and Technologies  
 
 - **Languages & Core** → Python, SQL, Linux  
 - **Machine Learning & Deep Learning** → Scikit-learn, TensorFlow, PyTorch, Keras  
@@ -84,11 +79,11 @@ Autonomous Vehicle Engineer
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 - 📧 Email: [manuelcartinh@gmail.com]  
 - 💼 LinkedIn: [linkedin profile](https://www.linkedin.com/in/manuel-antonio-cartin-hern%C3%A1ndez-316759227/)  
 - 💻 GitHub: [github profile](https://github.com/ManuelCartin/ManuelCartin)  
 
 ---
-⭐ *"Data is not just numbers — it’s stories waiting to be told."*  
+*"Data is not just numbers — it’s stories waiting to be told."*  
