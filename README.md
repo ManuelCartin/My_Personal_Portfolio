@@ -1,19 +1,18 @@
-# 🚀 AI Engineer Portfolio  
+# # AI Engineer | Applied Modeling & Intelligent Systems
 
-Welcome to my portfolio! I'm a Data Science student pursuing a career as an **AI Engineer**.  
-My motto is to take data with a grain of salt: beyond models and metrics, I believe in building **data products that not only work, but also tell a story**.  
-
-Here you will find my most ambitious projects — from Formula 1 strategy analysis 🏎️ to climate impact studies 🌦️ — and how I use Artificial Intelligence to transform raw data into actionable insights.  
+Welcome to my portfolio! I am a Data Science student focused on applied Artificial Intelligence and intelligent systems. 
+My work combines modeling, simulation, and machine learning to transform complex data into structured, decision-ready solutions.
 
 ---
 
 ## 🌱 My Philosophy  
 
-I firmly believe that **hard work is the best way to grow**.  
-This portfolio not only showcases my main projects but also my academic work and practice exercises.  
+## Engineering Approach
 
-I don’t aim to be "the best," but rather to prepare myself to collaborate with those who will one day be my colleagues and peers.  
-If one of us improves, we all improve — with the shared goal of creating solutions that help those in need.  
+- Strong technical foundations before abstraction.
+- Practical implementation over theoretical accumulation.
+- Continuous iteration and experimentation.
+- Collaboration as a force multiplier in technical teams.
 
 ---
 
@@ -64,31 +63,14 @@ In addition to the main projects, I maintain a dedicated repository for experime
 
 ## 🎖️ Relevant Certifications  
 
-### ✅ Earned  
-- **[IBM Data Science](https://www.credly.com/org/ibm/badge/ibm-data-science-professional-certificate-v3)**  
-  - [First Jupyter Notebook](https://github.com/ManuelCartin/firstJupyterIBMskills) → First notebook practice.  
-  - [IBM Data Science Project](https://github.com/ManuelCartin/Data_Science_IBM_Proyect) → Applied data science project.  
-  - [Capstone Project](https://github.com/ManuelCartin/IBM_Data_Sciense_Capstone) → Final applied project (multi-part).  
-    - [Data Wrangling Capstone](https://github.com/ManuelCartin/DataWrangler_SpaceX_IBMCourse)  
-    - [Data Analysis Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX__IBM_apply_data_sciense_capstone_part3)  
-    - [Exploratory Data Analysis Capstone](https://github.com/ManuelCartin/Date_Analysis_AED_SpaceX_IBM_apply_data_sciense_capstone)  
-    - [Data Predict SpaceX Capstone](https://github.com/ManuelCartin/Date_Predict_AED_Space_X_IBM_apply_data_sciense_capstone)  
+IBM Data Science Professional Certificate  
+- Applied Capstone Project (multi-stage predictive modeling)
+Autonomous Vehicle Engineer
+- tire model (matlab/simulink and jupyter notebook)
 
 ### 🔄 In Progress  
 - **IBM Data Engineer**  
   - [Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Automated workflows with Linux Shell scripting.  
-
-### 🗓️ Planned  
-| Certification | Focus |
-|---------------|-------|
-| IBM Data Warehouse | Data storage and pipelines |
-| IBM Machine Learning | ML models and deployment |
-| IBM Deep Learning | Neural networks and advanced AI |
-| IBM AI Engineer | AI product building |
-| IBM Generative AI Engineer | GenAI systems and applications |
-| IBM Development AI Engineer | AI-focused software engineering |
-
----
 
 ## 🧰 Tools and Technologies  
 
