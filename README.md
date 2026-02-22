@@ -16,18 +16,8 @@ My work combines modeling, simulation, and machine learning to transform complex
 
 ## Main Projects  
 
-- **[F1 Insights](https://github.com/ManuelCartin/F1_Project_Data_engineering)** → Created a data product for **strategic analysis in Formula 1**, including lap predictions and pit-stop optimization.  
-- **[F1 API & Race Strategy](https://github.com/ManuelCartin/f1-merged-analysis-2022-2024_and_analsys)** → Built a pipeline for **F1 data extraction via API** and strategy simulation for performance insights.  
-- **[Synthetic Dataset for Perishables](https://github.com/ManuelCartin/Perishable_RNN_Project)** → Generated synthetic data and trained **RNN models** to predict product freshness. *(In progress)*
 - **[F1_Climate_season_Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)** → Analysis of the F1 season with climate data. *(In progress)*
-- **[Cloud Analysis and Risk Prevention](https://github.com/ManuelCartin/Cloud_Analisys_Predict)** → AI model for **aviation safety risk prevention** through cloud pattern detection.  *(in progress)*
 - **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.  
-
----
-
-## Practice  
-
-- [Kaggle exercises and datasets](https://github.com/ManuelCartin/Data_Practice) → Hands-on machine learning, feature engineering, and competition-style practice.  
 
 ---
 
@@ -48,13 +38,6 @@ Unpolished projects → ideas still in development.
 Technical practice → data cleaning, integration, or exploratory workflows.
 
 Curiosity-driven work → experiments that may later become full portfolio projects.
-
-In addition to the main projects, I maintain a dedicated repository for experiments and technical practice:  
-- **[Data Experiment](https://github.com/ManuelCartin/Data_Experiment)** → Collection of experiments and exploratory projects.  
-  - [F1 Climate Comparison](https://github.com/ManuelCartin/Data_Experiment/tree/main/f1_climate_comparacion) → Merging and cleaning weather datasets from four Formula 1 circuits (Spa, Bahrain, Miami, and Singapore) to build a consolidated dataset for climate analysis.  
-  - *(More experiments will be added as I continue exploring)*  
-
-
 
 ## Relevant Certifications  
 
