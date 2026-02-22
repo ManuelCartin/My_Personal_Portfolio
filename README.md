@@ -1,4 +1,4 @@
-# # AI Engineer | Applied Modeling & Intelligent Systems
+# AI Engineer | Applied Modeling & Intelligent Systems
 
 Welcome to my portfolio! I am a Data Science student focused on applied Artificial Intelligence and intelligent systems. 
 My work combines modeling, simulation, and machine learning to transform complex data into structured, decision-ready solutions.
