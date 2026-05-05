@@ -1,43 +1,61 @@
 # AI Engineer | Applied Modeling & Intelligent Systems
 
-Welcome to my portfolio! I am a Data Science student focused on applied Artificial Intelligence and intelligent systems. 
-My work combines modeling, simulation, and machine learning to transform complex data into structured, decision-ready solutions.
-
----
+Welcome to my portfolio. I am a Data Science Engineering student focused on building applied AI systems, combining modeling, simulation, and data engineering to solve real-world problems.
 
 ## Engineering Approach
-
-- Strong technical foundations before abstraction.
-- Practical implementation over theoretical accumulation.
-- Continuous iteration and experimentation.
-- Collaboration as a force multiplier in technical teams.
+Strong technical foundations before abstraction
+Practical systems over isolated models
+Iterative development under real constraints
+Engineering decisions driven by trade-offs
+Security and robustness by design
 
 ---
 
 ## Main Projects  
-F1 Climate Season Predict
-
-→ Predictive modeling of Formula 1 race conditions using climate data. (In progress)
-Weather and Crime
-
-- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.
+F1 Performance & Weather System (In Progress)
 - **[F1_Climate_season_Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)** → Analysis of the F1 season with climate data. *(In progress)*
-→ Analysis of environmental factors influencing crime patterns with continuous model iteration. (In progress)
-Rally Dakar Client-Server Secure System
-→ Client-server architecture inspired by rally navigation systems, featuring:
-Geolocation simulation
-Multilayer security design
-Synthetic decoy data (honeypot approach)
+
+Analysis of Formula 1 performance using environmental data:
+
+Climate-performance correlation
+Data pipeline development
+Scaling from experiment to system
+
+Focus: Data engineering + predictive modeling
+→ Predictive modeling of Formula 1 race conditions using climate data. (In progress)
+
+Weather & Crime Predictive System (In Progress)
+- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.
+  
+Explores the relationship between weather conditions and crime patterns:
+
+Multi-source data integration
+Feature engineering (custom severity index)
+Data imbalance handling (SMOTE)
+
+Focus: Data engineering and real-world modeling
+
+🏁 Rally Dakar Client-Server Secure System
 - **[Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
-→ Focused on system design, security, and data engineering integration
-LMGT3 Brake Thermal Modeling (Newton-Based) (UPDATED)
-→ Simulation of brake temperature dynamics in endurance racing using Newton's Law of Cooling
-→ Includes:
-Heat dissipation modeling
-Thermal degradation behavior
-System response under racing conditions
-→ Combines physics-based modeling + simulation + data analysis
+Client-server system inspired by rally navigation:
+
+Geolocation simulation
+Multilayer security
+Synthetic decoy data (honeypot approach)
+
+Focus: System architecture, security engineering, data integrity
+
+LMGT3 Brake Thermal Modeling (Newton-Based)
 - **[LMGT3_Newton-s-Law-of-Cooling]([https://github.com/ManuelCartin/Proyect_Crime_Meteo](https://github.com/ManuelCartin/LMGT3_Newton-s-Law-of-Cooling))**
+  
+Simulation of brake temperature behavior using Newton's Law of Cooling:
+
+Heat dissipation modeling
+Thermal degradation
+Environmental impact
+
+Focus: Physics-based modeling and simulation
+→ Combines physics-based modeling + simulation + data analysis
 
 
 ---
