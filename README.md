@@ -15,9 +15,30 @@ My work combines modeling, simulation, and machine learning to transform complex
 ---
 
 ## Main Projects  
+F1 Climate Season Predict
 
+→ Predictive modeling of Formula 1 race conditions using climate data. (In progress)
+Weather and Crime
+
+- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.
 - **[F1_Climate_season_Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)** → Analysis of the F1 season with climate data. *(In progress)*
-- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.  
+→ Analysis of environmental factors influencing crime patterns with continuous model iteration. (In progress)
+Rally Dakar Client-Server Secure System
+→ Client-server architecture inspired by rally navigation systems, featuring:
+Geolocation simulation
+Multilayer security design
+Synthetic decoy data (honeypot approach)
+- **[Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
+→ Focused on system design, security, and data engineering integration
+LMGT3 Brake Thermal Modeling (Newton-Based) (UPDATED)
+→ Simulation of brake temperature dynamics in endurance racing using Newton's Law of Cooling
+→ Includes:
+Heat dissipation modeling
+Thermal degradation behavior
+System response under racing conditions
+→ Combines physics-based modeling + simulation + data analysis
+- **[LMGT3_Newton-s-Law-of-Cooling]([https://github.com/ManuelCartin/Proyect_Crime_Meteo](https://github.com/ManuelCartin/LMGT3_Newton-s-Law-of-Cooling))**
+
 
 ---
 
