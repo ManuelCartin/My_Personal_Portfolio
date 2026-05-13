@@ -35,7 +35,7 @@ Data imbalance handling (SMOTE)
 
 Focus: Data engineering and real-world modeling
 
-🏁 Rally Dakar Client-Server Secure System
+ Rally Dakar Client-Server Secure System
 - **[Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
 Client-server system inspired by rally navigation:
 
@@ -87,8 +87,9 @@ Autonomous Vehicle Engineer
 
 ### In Progress  
 - **IBM Data Engineer**  
-  - [Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Automated workflows with Linux Shell scripting.  
-
+  - [Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Automated workflows with Linux Shell scripting.
+- **University of Toronto Self Driving Program**  
+  - [Self Driving Program ]([https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect](https://github.com/ManuelCartin/Autonomous-Vehicle-Physics-N-Kinematic-Modeling)) → Autonomous Vehicle Physics & Kinematic Modeling.
 ## Tools and Technologies  
 
 - **Languages & Core** → Python, SQL, Linux  
