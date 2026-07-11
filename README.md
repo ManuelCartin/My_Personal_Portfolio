@@ -1,112 +1,243 @@
-# AI Engineer | Applied Modeling & Intelligent Systems
+# AI Engineer | Applied Modeling · Operational Analytics · Intelligent Systems
 
-Welcome to my portfolio. I am a Data Science Engineering student focused on building applied AI systems, combining modeling, simulation, and data engineering to solve real-world problems.
+Welcome to my portfolio.
 
-## Engineering Approach
-Strong technical foundations before abstraction
-Practical systems over isolated models
-Iterative development under real constraints
-Engineering decisions driven by trade-offs
-Security and robustness by design
+I am a Data Science Engineering student focused on applying **Artificial Intelligence, Data Engineering, Statistical Modeling, and Simulation** to solve real-world engineering and operational problems. My work emphasizes reproducible analytical pipelines, evidence-driven decision making, and engineering-oriented storytelling.
 
 ---
 
-## Main Projects  
-F1 Performance & Weather System (In Progress)
-- **[F1_Climate_season_Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)** → Analysis of the F1 season with climate data. *(In progress)*
+# Engineering Approach
 
-Analysis of Formula 1 performance using environmental data:
-
-Climate-performance correlation
-Data pipeline development
-Scaling from experiment to system
-
-Focus: Data engineering + predictive modeling
-→ Predictive modeling of Formula 1 race conditions using climate data. (In progress)
-
-Weather & Crime Predictive System (In Progress)
-- **[Weather and Crime](https://github.com/ManuelCartin/Proyect_Crime_Meteo)** → Climate impact analysis on crime. Ongoing project with **continuous updates and model improvements *(In progress)***.
-  
-Explores the relationship between weather conditions and crime patterns:
-
-Multi-source data integration
-Feature engineering (custom severity index)
-Data imbalance handling (SMOTE)
-
-Focus: Data engineering and real-world modeling
-
- Rally Dakar Client-Server Secure System
-- **[Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
-Client-server system inspired by rally navigation:
-
-Geolocation simulation
-Multilayer security
-Synthetic decoy data (honeypot approach)
-
-Focus: System architecture, security engineering, data integrity
-
-LMGT3 Brake Thermal Modeling (Newton-Based)
-- **[LMGT3_Newton-s-Law-of-Cooling]([https://github.com/ManuelCartin/Proyect_Crime_Meteo](https://github.com/ManuelCartin/LMGT3_Newton-s-Law-of-Cooling))**
-  
-Simulation of brake temperature behavior using Newton's Law of Cooling:
-
-Heat dissipation modeling
-Thermal degradation
-Environmental impact
-
-Focus: Physics-based modeling and simulation
-→ Combines physics-based modeling + simulation + data analysis
-
+- Strong technical foundations before abstraction
+- Practical systems over isolated models
+- Statistical reasoning before machine learning
+- Engineering decisions driven by evidence
+- Security and robustness by design
 
 ---
 
-## University Projects  
+# Main Projects
 
-- [Fidélitas University Projects](https://github.com/ManuelCartin/University_Fidelitas_Project) → Coursework and applied research in Data Science Engineering.  
+## Weather & Crime Operational Risk Analysis
+**Data Engineering · Statistical Analysis · Risk Modeling**
 
----
-Experiments and Tests
+**[Weather and Crime](https://github.com/ManuelCartin/An-lisis_de_Riesgo_Log-stica_-_Seguridad_de_Activos)**
 
-In addition to the main projects, I maintain a dedicated Experiments Repository
-.
+Operational risk analysis combining **530,000+ crime records** with **10 years of historical weather data** to evaluate how environmental conditions influence crime exposure in Costa Rica.
 
-This space is for:
+### Highlights
 
-Unpolished projects → ideas still in development.
+- Multi-source data integration (OIJ + Open-Meteo)
+- Data quality auditing and reconstruction of corrupted source schema
+- Statistical hypothesis testing
+- Operational risk storytelling
+- Translation of analytical findings into logistics decision support
 
-Technical practice → data cleaning, integration, or exploratory workflows.
-
-Curiosity-driven work → experiments that may later become full portfolio projects.
-
-## Relevant Certifications  
-
-IBM Data Science Professional Certificate  
-- Applied Capstone Project (multi-stage predictive modeling)
-Autonomous Vehicle Engineer
-- tire model (matlab/simulink and jupyter notebook)
-
-### In Progress  
-- **IBM Data Engineer**  
-  - [Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect) → Automated workflows with Linux Shell scripting.
-- **University of Toronto Self Driving Program**  
-  - [Self Driving Program ](https://github.com/ManuelCartin/Autonomous-Vehicle-Physics-N-Kinematic-Modeling) → Autonomous Vehicle Physics & Kinematic Modeling.
-## Tools and Technologies  
-
-- **Languages & Core** → Python, SQL, Linux  
-- **Machine Learning & Deep Learning** → Scikit-learn, TensorFlow, PyTorch, Keras  
-- **Data Engineering** → Pandas, NumPy, PySpark, Apache Airflow  
-- **Databases** → MySQL, PostgreSQL, MongoDB  
-- **Cloud & Deployment** → IBM Cloud, Docker, Flask, FastAPI  
-- **Visualization** → Matplotlib, Seaborn, Plotly, Power BI  
-- **Other Tools** → Git/GitHub, Jupyter, VS Code  
+**Focus:** Operational Analytics · Logistics · Industry 4.0 · Risk Assessment
 
 ---
 
-## Contact  
+## Human Control Latency Analysis using Vehicle Telemetry
+**Time-Series Analytics · Signal Processing · Human Performance**
 
-- 📧 Email: [manuelcartinh@gmail.com]  
-- 💼 LinkedIn: [linkedin profile](https://www.linkedin.com/in/manuel-antonio-cartin-hern%C3%A1ndez-316759227/)  
-- 💻 GitHub: [github profile](https://github.com/ManuelCartin/ManuelCartin)  
+**[Motor Coordination Analysis](https://github.com/ManuelCartin/An-lisis-de-Coordinaci-n-Motora-en-Interfaces-de-Control-Secuencial)**
+
+Experimental study using **50 Hz MoTeC telemetry** to quantify how control interface design affects sequential human performance during gear changes.
+
+### Highlights
+
+- Event detection on time-series telemetry
+- Automatic braking-zone segmentation
+- Sequential latency analysis
+- Timing variability analysis
+- Human-machine interface evaluation
+- Statistical comparison between control configurations
+
+**Focus:** Industrial Telemetry · Human-Machine Interaction · Process Monitoring · Industry 4.0
 
 ---
-*"Data is not just numbers — it’s stories waiting to be told."*  
+
+## F1 Climate Performance System *(In Progress)*
+**Predictive Analytics · Data Engineering**
+
+**[F1 Climate Season Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)**
+
+Analysis of Formula 1 performance using environmental variables and historical weather information.
+
+### Highlights
+
+- Climate-performance correlation
+- Predictive modeling
+- Feature engineering
+- Data pipeline development
+
+**Focus:** Data Engineering · Predictive Modeling
+
+---
+
+## Secure Client-Server Logistics System
+**Distributed Systems · Security Engineering**
+
+**[Secure Client Server System](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
+
+Client-server architecture inspired by Dakar Rally navigation, emphasizing secure communication and resilient logistics systems.
+
+### Highlights
+
+- Secure client-server architecture
+- Geolocation simulation
+- Synthetic decoy data (honeypot approach)
+- Data integrity mechanisms
+
+**Focus:** Security Engineering · Distributed Systems
+
+---
+
+## LMGT3 Brake Thermal Modeling
+**Physics-Based Simulation**
+
+**[LMGT3 Newton's Law of Cooling](https://github.com/ManuelCartin/LMGT3_Newton-s-Law-of-Cooling)**
+
+Simulation of brake temperature dynamics using Newton's Law of Cooling.
+
+### Highlights
+
+- Heat dissipation modeling
+- Thermal degradation analysis
+- Environmental influence
+- Physics-based simulation
+
+**Focus:** Modeling · Simulation · Engineering Physics
+
+---
+
+# University Projects
+
+**[Fidélitas University Projects](https://github.com/ManuelCartin/University_Fidelitas_Project)**
+
+Collection of coursework, engineering assignments, and applied research developed throughout the Data Science Engineering program.
+
+---
+
+# Experiments Repository
+
+In addition to the main portfolio projects, I maintain a dedicated repository for technical experimentation.
+
+This repository includes:
+
+- Exploratory analyses
+- Early-stage project ideas
+- Data engineering practice
+- Proof-of-concept implementations
+- Experimental workflows that may evolve into complete portfolio projects
+
+---
+
+# Relevant Certifications
+
+## IBM Data Science Professional Certificate
+
+- Applied Capstone Project
+- Machine Learning
+- Data Visualization
+- Statistical Analysis
+
+## Autonomous Vehicle Engineering
+
+- Tire Modeling
+- MATLAB / Simulink
+- Vehicle Dynamics
+- Jupyter Notebook
+
+---
+
+# Currently Learning
+
+## IBM Data Engineer Professional Certificate
+
+**[Linux Automation Project](https://github.com/ManuelCartin/IBM_Data_Engineer_Course6_Proyect)**
+
+- Linux
+- Shell Scripting
+- Automation
+- Data Engineering
+
+---
+
+## University of Toronto — Self Driving Cars Specialization
+
+**[Autonomous Vehicle Physics & Kinematic Modeling](https://github.com/ManuelCartin/Autonomous-Vehicle-Physics-N-Kinematic-Modeling)**
+
+- Vehicle Kinematics
+- Vehicle Dynamics
+- Motion Modeling
+
+---
+
+# Tools & Technologies
+
+### Languages
+
+- Python
+- SQL
+- Linux
+
+### Data Science & AI
+
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Keras
+
+### Data Engineering
+
+- Apache Airflow
+- PySpark
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Backend & Deployment
+
+- Docker
+- Flask
+- FastAPI
+- IBM Cloud
+
+### Visualization
+
+- Matplotlib
+- Plotly
+- Power BI
+
+### Development Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+# Contact
+
+📧 **Email**
+
+manuelcartinh@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/manuel-antonio-cartin-hern%C3%A1ndez-316759227/
+
+💻 **GitHub**
+
+https://github.com/ManuelCartin
+
+---
+
+> *"Data is not just numbers—it is evidence waiting to become engineering decisions."*
