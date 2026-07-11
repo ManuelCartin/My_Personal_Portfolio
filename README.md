@@ -110,6 +110,28 @@ Simulation of brake temperature dynamics using Newton's Law of Cooling.
 **Focus:** Modeling · Simulation · Engineering Physics
 
 ---
+---
+
+## Vibration Reconstruction & Asset Integrity Analysis
+**Mathematical Modeling · Numerical Methods · Predictive Maintenance**
+
+**[Vibration Reconstruction & Asset Integrity Analysis](https://github.com/ManuelCartin/Vibration-Reconstruction-Asset-Integrity-Analysis-via-Numerical-Methods)**
+
+Physics-based reconstruction of a motorsport suspension system using **ordinary differential equations (ODEs), Runge-Kutta (RK4) numerical integration, and Nelder-Mead optimization** to distinguish structural damage from geometric suspension changes after an impact.
+
+### Highlights
+
+- Quarter-car dynamic modeling (2-DOF)
+- Runge-Kutta (RK4) numerical integration
+- Nelder-Mead parameter optimization
+- MoTeC telemetry analysis (200 Hz)
+- Motion Ratio inference from telemetry
+- Asset integrity assessment
+- Predictive maintenance methodology
+
+**Focus:** Mathematical Modeling · Simulation · Predictive Maintenance · Industry 4.0
+
+---
 
 # University Projects
 
