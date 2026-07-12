@@ -57,7 +57,7 @@ Experimental study using **50 Hz MoTeC telemetry** to quantify how control inter
 
 ---
 
-## F1 Climate Performance System *(In Progress)*
+## F1 Climate Performance System
 **Predictive Analytics · Data Engineering**
 
 **[F1 Climate Season Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)**
