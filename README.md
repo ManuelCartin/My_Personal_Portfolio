@@ -153,6 +153,18 @@ This repository includes:
 - Proof-of-concept implementations
 - Experimental workflows that may evolve into complete portfolio projects
 
+### Example: Synthetic Data Generation for Stress-Testing (Retail Inventory Alerts)
+
+**[Retail Synthetic Stress-Test Dataset](https://github.com/ManuelCartin/-Generaci-n-de-Dataset-Sint-tico-para-Pruebas-de-Estr-s-Sistema-de-Alertas-de-Inventario-Perecedero)**
+
+Synthetic dataset engineering component of a university predictive-maintenance-style project (inventory expiration alerting). Focused on generating and statistically validating a stress-test dataset in the absence of real retail data.
+
+- Staged synthetic generation (manual seed → programmatic expansion → generative AI enrichment)
+- Explicit validation: distribution checks, edge-case coverage, cluster separability
+- Documented dataset limitations rather than treating volume as sufficient validation
+
+**Focus:** Data Engineering · Synthetic Data · Statistical Validation
+
 ---
 
 # Relevant Certifications
@@ -263,3 +275,4 @@ https://github.com/ManuelCartin
 ---
 
 > *"Data is not just numbers—it is evidence waiting to become engineering decisions."*
+
