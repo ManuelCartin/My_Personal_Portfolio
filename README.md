@@ -89,6 +89,9 @@ I am currently strengthening the skills needed to build and operate dependable d
 
 - Python
 - SQL
+- Javascript
+  
+### OS
 - Linux
 
 ### Data Science & AI
@@ -103,6 +106,7 @@ I am currently strengthening the skills needed to build and operate dependable d
 ### Data Engineering
 
 - Apache Airflow
+- Apache Kafka
 - PySpark
 
 ### Databases
@@ -110,13 +114,6 @@ I am currently strengthening the skills needed to build and operate dependable d
 - PostgreSQL
 - MySQL
 - MongoDB
-
-### Backend & Deployment
-
-- Docker
-- Flask
-- FastAPI
-- IBM Cloud
 
 ### Visualization
 
