@@ -1,213 +1,44 @@
-# AI Engineer | Applied Modeling · Operational Analytics · Intelligent Systems
+# Manuel Cartín | Data Engineering · Operational Analytics · Reliable Systems
 
-Welcome to my portfolio.
+Welcome to my engineering portfolio.
 
-I am a Data Science Engineering student focused on applying **Artificial Intelligence, Data Engineering, Statistical Modeling, and Simulation** to solve real-world engineering and operational problems. My work emphasizes reproducible analytical pipelines, evidence-driven decision making, and engineering-oriented storytelling.
+I am a Data Science Engineering student building toward Data Engineering, Cloud, and DataOps. I develop data-driven solutions for operational and engineering problems, with particular interest in systems where reliability, traceability, and clear technical communication matter.
 
----
+My work combines data engineering, statistical analysis, simulation, and software systems. Rather than treating data as an isolated analytics task, I focus on the full path from imperfect source data to a solution that can support a real decision.
 
-# Engineering Approach
+My electromechanical background shapes that approach: I care not only about whether a model produces an answer, but whether the data is trustworthy, the result is physically or operationally sound, and the system can be understood and maintained by a multidisciplinary team.
 
-- Strong technical foundations before abstraction
-- Practical systems over isolated models
-- Statistical reasoning before machine learning
-- Engineering decisions driven by evidence
-- Security and robustness by design
+## Featured Projects
 
----
+Each project below represents a different part of my profile: data engineering, operational analytics, telemetry, simulation, database architecture, and secure systems. Open the project most relevant to your interests.
 
-# Main Projects
+- **[Weather & Crime Operational Risk Analysis](https://github.com/ManuelCartin/An-lisis_de_Riesgo_Log-stica_-_Seguridad_de_Activos)**  
+  Data integration and statistical risk analysis using 530,000+ crime records and 10 years of weather data.
 
-## Weather & Crime Operational Risk Analysis
-**Data Engineering · Statistical Analysis · Risk Modeling**
+- **[Hotel Internacional Parade — Relational Database Architecture](https://github.com/ManuelCartin/Hotel-Internacional-Parade-Dise-o-de-Base-de-Datos-Relacional)**  
+  Multi-country operational database built in SQL Server, including normalized modeling, automation, constraints, analytical views, and indexing.
 
-**[Weather and Crime](https://github.com/ManuelCartin/An-lisis_de_Riesgo_Log-stica_-_Seguridad_de_Activos)**
+- **[Vibration Reconstruction & Asset Integrity Analysis](https://github.com/ManuelCartin/Vibration-Reconstruction-Asset-Integrity-Analysis-via-Numerical-Methods)**  
+  Telemetry-based reconstruction of a suspension system using ODEs, RK4 integration, and optimization to distinguish damage from geometric changes.
 
-Operational risk analysis combining **530,000+ crime records** with **10 years of historical weather data** to evaluate how environmental conditions influence crime exposure in Costa Rica.
+- **[Human Control Latency Analysis](https://github.com/ManuelCartin/An-lisis-de-Coordinaci-n-Motora-en-Interfaces-de-Control-Secuencial)**  
+  Time-series analysis of 50 Hz vehicle telemetry to study human-machine interaction during gear changes.
 
-### Highlights
+- **[Secure Client-Server Logistics System](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**  
+  Secure architecture for geolocation and logistics scenarios, with data-integrity and resilience considerations.
 
-- Multi-source data integration (OIJ + Open-Meteo)
-- Data quality auditing and reconstruction of corrupted source schema
-- Statistical hypothesis testing
-- Operational risk storytelling
-- Translation of analytical findings into logistics decision support
+- **[Hybrid Data Structures Banking Queue System](https://github.com/ManuelCartin/Sistema-de-Gesti-n-de-Cajas-Bancarias-Empresa-ABC)**  
+  Java system built from scratch with custom linked structures, priority queues, decision trees, and graph-based recommendations.
 
-**Focus:** Operational Analytics · Logistics · Industry 4.0 · Risk Assessment
+## Current Direction
 
----
+I am currently strengthening the skills needed to build and operate dependable data systems:
 
-## Human Control Latency Analysis using Vehicle Telemetry
-**Time-Series Analytics · Signal Processing · Human Performance**
-
-**[Motor Coordination Analysis](https://github.com/ManuelCartin/An-lisis-de-Coordinaci-n-Motora-en-Interfaces-de-Control-Secuencial)**
-
-Experimental study using **50 Hz MoTeC telemetry** to quantify how control interface design affects sequential human performance during gear changes.
-
-### Highlights
-
-- Event detection on time-series telemetry
-- Automatic braking-zone segmentation
-- Sequential latency analysis
-- Timing variability analysis
-- Human-machine interface evaluation
-- Statistical comparison between control configurations
-
-**Focus:** Industrial Telemetry · Human-Machine Interaction · Process Monitoring · Industry 4.0
-
----
-
-## F1 Climate Performance System
-**Predictive Analytics · Data Engineering**
-
-**[F1 Climate Season Predict](https://github.com/ManuelCartin/F1_Climate_Season_predict)**
-
-Analysis of Formula 1 performance using environmental variables and historical weather information.
-
-### Highlights
-
-- Climate-performance correlation
-- Predictive modeling
-- Feature engineering
-- Data pipeline development
-
-**Focus:** Data Engineering · Predictive Modeling
-
----
-
-## Secure Client-Server Logistics System
-**Distributed Systems · Security Engineering**
-
-**[Secure Client Server System](https://github.com/ManuelCartin/Secure-client-server-system-for-logistics-app-based-on-Dakar-Rally-and-Boeing)**
-
-Client-server architecture inspired by Dakar Rally navigation, emphasizing secure communication and resilient logistics systems.
-
-### Highlights
-
-- Secure client-server architecture
-- Geolocation simulation
-- Synthetic decoy data (honeypot approach)
-- Data integrity mechanisms
-
-**Focus:** Security Engineering · Distributed Systems
-
----
-
-## LMGT3 Brake Thermal Modeling
-**Physics-Based Simulation**
-
-**[LMGT3 Newton's Law of Cooling](https://github.com/ManuelCartin/LMGT3_Newton-s-Law-of-Cooling)**
-
-Simulation of brake temperature dynamics using Newton's Law of Cooling.
-
-### Highlights
-
-- Heat dissipation modeling
-- Thermal degradation analysis
-- Environmental influence
-- Physics-based simulation
-
-**Focus:** Modeling · Simulation · Engineering Physics
-
----
----
-
-## Vibration Reconstruction & Asset Integrity Analysis
-**Mathematical Modeling · Numerical Methods · Predictive Maintenance**
-
-**[Vibration Reconstruction & Asset Integrity Analysis](https://github.com/ManuelCartin/Vibration-Reconstruction-Asset-Integrity-Analysis-via-Numerical-Methods)**
-
-Physics-based reconstruction of a motorsport suspension system using **ordinary differential equations (ODEs), Runge-Kutta (RK4) numerical integration, and Nelder-Mead optimization** to distinguish structural damage from geometric suspension changes after an impact.
-
-## Hotel Internacional Parade: Relational Database Architecture
-**Database Architecture · Data Modeling · T-SQL Engineering**
-
-**[Hotel Internacional Parade](https://github.com/ManuelCartin/Hotel-Internacional-Parade-Dise-o-de-Base-de-Datos-Relacional)**
-
-Multi-country enterprise database system designed in **T-SQL (Microsoft SQL Server)** across **28 normalized tables** to manage multi-region hotel operations, HR/payroll, inventory, and restaurant POS workflows.
-
-### Highlights
-
-- **4-Level Geographical Hierarchy:** Normalized location structure (`Country → Region → Canton → District`) enabling multi-region scalability without data duplication.
-- **Surrogate Key Architecture:** High-performance `INT IDENTITY` primary keys paired with ISO code `UNIQUE` constraints to optimize JOIN performance while enforcing international standards.
-- **Operational Automation & Integrity:** Custom T-SQL triggers for real-time inventory deduction from kitchen orders, automated room status transitions upon reservation, and dynamic loyalty point calculation.
-- **Advanced Database Objects:** Engineered 5 analytical views, 4 non-clustered performance indexes, and strict engine-level `CHECK` constraints for business logic enforcement.
-- **Subtype Entity Specialization:** Extended customer profile tables (`Risk_Client`, `Frequent_Client`) to isolate domain metadata without polluting core tables.
-
-**Focus:** Database Architecture · Relational Modeling · T-SQL · Data Integrity · Enterprise Systems
-
----
-
-## Hybrid Data Structures Banking Queue System
-**Custom Data Structures · Algorithm Design · Java Systems**
-
-**[Bank Queue Management System](https://github.com/ManuelCartin/Sistema-de-Gesti-n-de-Cajas-Bancarias-Empresa-ABC)**
-
-Enterprise bank teller management engine built in **Java** without standard collection libraries, featuring a custom hybrid node architecture, decision tree classification, and graph-based product recommendation.
-
-### Highlights
-
-- **Dual-Indexed Node Architecture:** Custom `NodoCaja` simultaneously participating in a doubly circular linked list (for load balancing) and a Binary Search Tree (for fast ID lookup) without data duplication.
-- **Decision Tree Classification:** Independent binary decision tree (`NodoArbolDecision`) classifying incoming customers into optimal cashier types based on preferential status and transaction count.
-- **Priority Queue Implementation:** Custom `ColaPrioridad` managing priority-driven insertions ($P > A > B$) and providing real-time positional feedback to waiting clients.
-- **Cross-Selling Recommendation Graph:** Adjacency-list directed graph (`GrafoProductos`) suggesting relevant financial products to tellers based on active transaction types.
-- **Zero-Framework Architecture:** Developed completely from scratch with manual pointer manipulation and custom character-by-character stream parsing.
-
-**Focus:** Custom Data Structures · Algorithm Design · Graph Theory · Java · Systems Architecture
-### Highlights
-
-- **4-Level Geographical Hierarchy:** Normalized location structure (`Country → Region → Canton → District`) enabling multi-region scalability without data duplication.
-- **Surrogate Key Architecture:** High-performance `INT IDENTITY` primary keys with decoupled ISO code `UNIQUE` constraints to optimize JOIN performance while keeping international standards.
-- **Operational Automation & Integrity:** Custom T-SQL triggers for real-time inventory deduction from kitchen orders, automated room status transitions upon reservation, and dynamic loyalty point calculation.
-- **Advanced Database Objects:** Engineered 5 analytical views, 4 non-clustered performance indexes, and comprehensive `CHECK` constraints to enforce business logic directly at the engine level.
-- **Subtype Entity Specialization:** Extended customer profile tables (`Risk_Client`, `Frequent_Flyer/Loyalty`) to isolate domain metadata without polluting core tables.
-
-**Focus:** Database Architecture · T-SQL · Relational Modeling · Enterprise Systems · Data Integrity
-### Highlights
-
-- Quarter-car dynamic modeling (2-DOF)
-- Runge-Kutta (RK4) numerical integration
-- Nelder-Mead parameter optimization
-- MoTeC telemetry analysis (200 Hz)
-- Motion Ratio inference from telemetry
-- Asset integrity assessment
-- Predictive maintenance methodology
-
-**Focus:** Mathematical Modeling · Simulation · Predictive Maintenance · Industry 4.0
-
----
-
-# University Projects
-
-**[Fidélitas University Projects](https://github.com/ManuelCartin/University_Fidelitas_Project)**
-
-Collection of coursework, engineering assignments, and applied research developed throughout the Data Science Engineering program.
-
----
-
-# Experiments Repository
-
-In addition to the main portfolio projects, I maintain a dedicated repository for technical experimentation.
-
-This repository includes:
-
-- Exploratory analyses
-- Early-stage project ideas
-- Data engineering practice
-- Proof-of-concept implementations
-- Experimental workflows that may evolve into complete portfolio projects
-
-### Example: Synthetic Data Generation for Stress-Testing (Retail Inventory Alerts)
-
-**[Retail Synthetic Stress-Test Dataset](https://github.com/ManuelCartin/-Generaci-n-de-Dataset-Sint-tico-para-Pruebas-de-Estr-s-Sistema-de-Alertas-de-Inventario-Perecedero)**
-
-Synthetic dataset engineering component of a university predictive-maintenance-style project (inventory expiration alerting). Focused on generating and statistically validating a stress-test dataset in the absence of real retail data.
-
-- Staged synthetic generation (manual seed → programmatic expansion → generative AI enrichment)
-- Explicit validation: distribution checks, edge-case coverage, cluster separability
-- Documented dataset limitations rather than treating volume as sufficient validation
-
-**Focus:** Data Engineering · Synthetic Data · Statistical Validation
+- Data pipelines, SQL, relational and NoSQL databases
+- Python, Linux, automation, and version control
+- Cloud and DataOps practices: testing, deployment, monitoring, and reliability
+- Web development fundamentals to support end-to-end data applications
+- Communication between data, software, operations, and business teams
 
 ---
 
